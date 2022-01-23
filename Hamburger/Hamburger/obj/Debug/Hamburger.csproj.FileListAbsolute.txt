@@ -1,0 +1,10 @@
+D:\C# Deneme\Hamburger\Hamburger\bin\Debug\Hamburger.exe.config
+D:\C# Deneme\Hamburger\Hamburger\bin\Debug\Hamburger.exe
+D:\C# Deneme\Hamburger\Hamburger\bin\Debug\Hamburger.pdb
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.csprojAssemblyReference.cache
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.Form1.resources
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.Properties.Resources.resources
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.GenerateResource.cache
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.CoreCompileInputs.cache
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.exe
+D:\C# Deneme\Hamburger\Hamburger\obj\Debug\Hamburger.pdb
